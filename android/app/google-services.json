@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041906765327",
+    "project_id": "qhospital-1ad2c",
+    "storage_bucket": "qhospital-1ad2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041906765327:android:89ca33a34170b001bb1d7a",
+        "android_client_info": {
+          "package_name": "com.qhospital.qhos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041906765327-ok671l72vi7tm0b44sldfupp22u9gtee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAzGbCJCSVYH3sc4iwLSfKw__lJ874UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041906765327-ok671l72vi7tm0b44sldfupp22u9gtee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
